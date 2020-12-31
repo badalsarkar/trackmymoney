@@ -16,4 +16,5 @@
 log/
 target/
 
-
+# local files
+documents/database
